@@ -86,12 +86,14 @@ nav{
 	background: rgb(171, 133, 148);
 
 }
+
 nav h3{
 	display: inline-block;
 	color: rgb(236, 219, 219);
 	background: rgb(76, 61, 61);
 	padding: 5px 30px;	
 }
+
 nav h4{
 	display: inline-block;
 	margin: 0; 
@@ -102,7 +104,7 @@ nav h4{
 nav ul{
 	display: inline-block;
 	margin: 0; 
-	font-family:cursive;
+/* 	font-family:cursive; */
 }
 
 nav li {
