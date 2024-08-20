@@ -1,3 +1,4 @@
+// needs server side tracking and cliet update //
 window.addEventListener('load',() =>{
 	// Function to generate a unique identifier
 	function generateUniqueId() {
